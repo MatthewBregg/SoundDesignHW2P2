@@ -87,6 +87,14 @@ This alarm has such a shrill sound. It is extremely intense and will probably ca
 
 
 ** Sound 3
-*** What it is
+*** What it is 
+
+The sticky key sound. 
+
 *** Description
+
+Keep pressing shift on on a windows machine and you will hear this first hand. Its the sound signifying that you have pressed shift to many times and may want to make it stick.
+
 *** Why I dislike it
+
+It is painful and unexpected to hear, especially when playing a video games that requires the shift key. It completely diverts your attention away from the application and ruin my train of thought.
