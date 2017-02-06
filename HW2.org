@@ -1,0 +1,79 @@
+#+TITLE: Homework Part 2
+#+AUTHOR: Matthew Bregg, Taariq Imami, DJ Meyers, Nicholas Fry
+* Good Sound
+** Sound 1
+*** What it is
+Battery charged indicator for the lipo battery charger. 
+*** Description
+When my battery charger finishes charging, it gives of a series of fairly loud, but not harsh beeps.
+I would say they have a mid frequency, and are not piercing. 
+The beeps go for 5-10 seconds.
+
+*** Why I like it
+It is  a good alert for an important event, one would not want to forget about a lipo battery out in the open, as leaving them charged is bad for them, and they are dangerous to puncture of smash. 
+However, the alarm is not super serious sounding, or piercing.
+A more piercing sound is reserved for mistakes, like if it reads a weird voltage, or can't find the battery, 
+which would be an indicator that something very bad is about to happen to the battery.
+By not wasting its serious piercing alarm on battery done, if I hear the actual piercing alarm, I know I need to get to the charger ASAP.
+(Thankfully, I've only heard it when I start the charger and forget to plug the battery in.)
+** Sound 2
+*** What it is
+The sound the Photon microcontroller has been programmed to create when it's turned on.
+The photon microcontroller is being used to control a nerf blaster. 
+*** Description
+When turned on, it gives a beep-de-dah.
+It is fairly quiet, just enough for you and a few people around you to hear.
+It is composed of mid frequencies, and is not piercing, but still audible and not a rumble.
+It's purpose is to alert you that the microcontroller has booted, and the nerf blaster can now be fired.
+Without it, while one could try to save battery and be a bit stealthier, one wouldn't be sure when it was on, aside from waiting 5 or so seconds.
+While it is minor, it is nice to know.
+
+*** Why I like it
+It is a not disturbing, pleasant sound. 
+It lets you know your blaster is ready to go, without disturbing you or those around you.
+Without a display, there is no other way to do this really, so it accomplishes a purpose.
+
+** Sound 3
+*** What it is
+Overwatch point control sound.
+Found in Overwatch video game.
+*** Description
+	The sound is a ticking noise.
+	The sound is a ticking which gets faster until your team or the enemy team takes the point.
+*** Why I like it
+Good because it alerts you to get on the point even if you are facing the wrong way.
+
+* Bad
+** Sound 1
+*** What it is
+Multimeter shut off. 
+My multimeter, if left on for the "long period of time" of 5 to 10 minutes with no change in measurements, will emit an annoying beep, and then shut off.
+The first beep is to indicate 5 minutes has past, then at 10 it shuts off.
+I believe the purpose is so that the user 
+1) Knows the multimeter is shutting off
+2) That it is shutting off intentionally, and not because of some malfunction
+3) Stops wasting battery and remembers to shut off their multimeter after each use
+*** Description
+A really annoying, loud beep that sounds like a smoke alarm decided to go off for a second. 
+
+*** Why I dislike it
+I think it is completely pointless to have this sound.
+If it were an option that could be permanently disabled, that would be fine, but as it is, it is more annoying than anything else. 
+
+I'd rather simply have the multimeter simply shut off, without announcing so to the world. 
+
+Battery gains from attempting to train the user like this are minimial, considering how little power a multimeter uses.
+And considering how often I put down and pick up the multimeter every 5 seconds or so when debugging,
+while unsure of which time I pick it up will be the last for that session, turning it on/off each time would be a pain. 
+
+However, if the sound had to exact, a much softer, more pleasing tone would be appropriate. 
+I don't need to hear it from across my apartment, and a startling beep is, well, startling, 
+which is the last thing I want when working with wires.
+A soothing, quieter tone would still alert the user, without startling them as long as they were still nearby. 
+Inspiration could come from standard computer/device shutdown sounds,
+which would also give a meaning to the sound,
+ as the first few times I heard that beep I was very confused, and thought some more serious warning had gone off.
+ 
+** Sound 2
+
+
